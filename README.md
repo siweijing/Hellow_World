@@ -22,12 +22,12 @@ Learning to use Github by creating Hello_world repository.
 
 # 4. Files Used
 ## In this project, I used: 
--data from 2020
--data from 2019
--data from 2018
+- data from 2020
+- data from 2019
+- data from 2018
 
 # 5. Additional Documentation
-[title](https://www.example.com)
+[UIOWA](https://uiowa.edu/?gclid=EAIaIQobChMIlv-AwbDi1QIVFrbACh066Q6TEAAYASAAEgLQ0PD_BwE)
 
 # 6. Versioning
 Haven't been discussed 
